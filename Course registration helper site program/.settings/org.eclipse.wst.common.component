@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="Course registration helper site program">
+                
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                
+        <property name="context-root" value="정처산기_11회_수강신청_도우미_사이트_프로그램_ver_2.0_(Course_registration_helper_site_program)"/>
+                
+        <property name="java-output-path" value="/Course registration helper site program/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
